@@ -1,5 +1,7 @@
 # Potter 2077
 
+该项目为中国海洋大学2023年夏季学期**程序设计基础实践**的课程设计，仅供参考。
+
 ## 故事背景
 
 故事发生在未来的魔法世界。2077年，魔法社会已经发生了巨大的变化。魔法与高科技融合，成为一个充满危险与奇迹的新时代。哈利·波特的孙子，亚历克斯·波特（Alex Potter）是一名年轻有为的魔法学徒，在这个世界中展开他的冒险之旅。
@@ -10,4 +12,16 @@
 
 ---
 
-该项目为中国海洋大学2023年夏季学期程序设计基础实践的课程设计，仅供参考。
+## For more information...
+
+**展示**：[PPT源文件](https://github.com/hongjr03/GameTower/raw/main/Presentation.pptx) [PDF格式](https://github.com/hongjr03/GameTower/blob/9f743287304d09e9a01fe345444fbde2e07c8649/Presentation.pdf)
+
+使用 Office 2016 之后的版本以获得预期的切换和动画效果。
+
+**报告**：[PDF格式](https://github.com/hongjr03/GameTower/blob/9f743287304d09e9a01fe345444fbde2e07c8649/FinalReport.pdf)
+
+使用 Markdown 和 [typora-latex-theme](https://github.com/Keldos-Li/typora-latex-theme)主题，让它看起来更像 LaTeX。~~（才不是因为当时 LaTeX 还用得不熟练呢）~~
+
+---
+
+> So now we have a running start...
